@@ -14,7 +14,7 @@
  *
 ##############################################################################*/
 
-// Define constants and variables
+// Define constants and variables 
 const int Dir1a = 4;
 const int Dir1b = 5;
 const int Enable1 = 6;
